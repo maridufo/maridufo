@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi, I’m **Camila Duarte**, an **Industrial Engineer** specializing in **Data Science and Analytics**. With over 9 years of experience in **process optimization**, **risk management**, and **SOX compliance**, I’ve transitioned into the world of data to combine my analytical mindset with modern technologies like **Python**, **Power BI**, and **Machine Learning**.
+Hi, I’m **Camila Duarte**, an **Industrial Engineer** specializing in **Data Science and Analytics**. With  experience in **process optimization**, **risk management**, and **SOX compliance**, I’ve transitioned into the world of data to combine my analytical mindset with modern technologies like **Python**, **Power BI**, and **Machine Learning**.
 ---
 
 ## 🚀 About Me
